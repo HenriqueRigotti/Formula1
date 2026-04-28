@@ -250,10 +250,6 @@ form h2 {
     text-align: center;
 }
 
-.form-label {
-    padding: 50px;
-}
-
 form button {
     display: flex;
     flex-direction: column;
